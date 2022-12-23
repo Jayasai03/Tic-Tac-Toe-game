@@ -23,7 +23,7 @@ void display_board() {
     cout << "\t\t  " << board[2][0] << "  |  " << board[2][1] << "  |  " << board[2][2] << endl;
     cout << "\t\t     |     |     " << endl;
     cout << endl;
-    cout << "\t\t\t\t\tFor more c++ projects visit: www.malikshahzaib.com" << endl;
+    cout << "\t\t\t\t\tDesigned by Jayasai" << endl;
 }
 void player_turn() {
     int choise;
